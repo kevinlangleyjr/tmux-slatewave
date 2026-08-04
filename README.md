@@ -116,8 +116,8 @@ Slatewave shares its palette with the companion themes. tmux has no variable mec
 | ![#fb7185](https://placehold.co/20x20/fb7185/fb7185.png) | `#fb7185` | `rose_400` | prefix-active indicator |
 | ![#ef5350](https://placehold.co/20x20/ef5350/ef5350.png) | `#ef5350` | `red_bright` | reserved |
 | ![#b388ff](https://placehold.co/20x20/b388ff/b388ff.png) | `#b388ff` | `purple` | reserved |
-| ![#fbbf24](https://placehold.co/20x20/fbbf24/fbbf24.png) | `#fbbf24` | `amber_400` | window bell, copy-mode mark |
-| ![#b45309](https://placehold.co/20x20/b45309/b45309.png) | `#b45309` | `amber_700` | reserved |
+| ![#fcd34d](https://placehold.co/20x20/fcd34d/fcd34d.png) | `#fcd34d` | `amber_300` | window bell, copy-mode mark |
+| ![#f59e0b](https://placehold.co/20x20/f59e0b/f59e0b.png) | `#f59e0b` | `amber_500` | warning background (reserved) |
 | ![#ff4500](https://placehold.co/20x20/ff4500/ff4500.png) | `#ff4500` | `orange` | reserved |
 | ![#193549](https://placehold.co/20x20/193549/193549.png) | `#193549` | `git_ink` | reserved |
 
@@ -131,7 +131,7 @@ Slatewave shares its palette with the companion themes. tmux has no variable mec
 | `status-left` | ` #S ` — `bg_inset` on `teal_300`, bold |
 | `window-status-format` | ` #I:#W#F ` — `fg_muted` on `bg_elevated` |
 | `window-status-current-format` |  ` #I:#W#F `  — `teal_300` on `chrome_light`, bold |
-| `window-status-bell-style` | `amber_400` on `bg_elevated`, bold |
+| `window-status-bell-style` | `amber_300` on `bg_elevated`, bold |
 | `window-status-activity-style` | `sky_400` on `bg_elevated` |
 | `window-status-last-style` | `fg_subtle` on `bg_elevated` |
 | `status-right` prefix indicator | ` PREFIX ` — `bg_inset` on `rose_400`, bold (only while prefix held) |
@@ -143,7 +143,7 @@ Slatewave shares its palette with the companion themes. tmux has no variable mec
 | `mode-style` (copy / selection) | `bg_inset` on `teal_300` |
 | `copy-mode-match-style` | `bg_inset` on `sky_400` |
 | `copy-mode-current-match-style` | `bg_inset` on `teal_300`, bold |
-| `copy-mode-mark-style` | `bg_inset` on `amber_400` |
+| `copy-mode-mark-style` | `bg_inset` on `amber_300` |
 | `display-panes-active-colour` | `teal_300` |
 | `clock-mode-colour` | `teal_300` (12-hour) |
 | `menu-selected-style` | `bg_inset` on `teal_300`, bold |
